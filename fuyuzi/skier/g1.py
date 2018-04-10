@@ -1,6 +1,6 @@
 #---coding:utf-8----
 
-# Skier program 游戏时间到了
+# Skier program 游戏时间到了 哈哈哈哈
 
 import pygame,sys,random
 
